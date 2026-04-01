@@ -20,20 +20,20 @@ This repository contains a collection of projects built using Python and SQL, fo
   - Short description
     
 ** Tech Stack
-  Language: Python
-  Database: MySQL / SQL
-  Tools: VS Code, MySQL Workbench
+  - Language: Python
+  - Database: MySQL / SQL
+  - Tools: VS Code, MySQL Workbench
 
 ** Learning Outcomes
-  Strong understanding of relational databases
-  Hands-on experience with SQL queries
-  Backend development using Python
-  Real-world problem-solving skills
+  - Strong understanding of relational databases
+  - Hands-on experience with SQL queries
+  - Backend development using Python
+  - Real-world problem-solving skills
 
 ** Future Improvements
-  Add GUI using Tkinter / Web (Flask/Django)
-  Enhance security (password hashing)
-  Deploy projects online
+  - Add GUI using Tkinter / Web (Flask/Django)
+  - Enhance security (password hashing)
+  - Deploy projects online
 
 ** Contributing
 Contributions are welcome! Feel free to fork this repo and submit a pull request.
