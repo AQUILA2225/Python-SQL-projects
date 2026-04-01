@@ -3,21 +3,21 @@ Overview
 This repository contains a collection of projects built using Python and SQL, focusing on real-world database applications. It demonstrates practical implementation of database design, CRUD operations, and backend logic.
 
 ** Features
--Database creation and management using SQL
--Integration of Python with SQL databases
--CRUD operations (Create, Read, Update, Delete)
--User authentication systems
--Real-world project implementations
+- Database creation and management using SQL
+- Integration of Python with SQL databases
+- CRUD operations (Create, Read, Update, Delete)
+- User authentication systems
+- Real-world project implementations
 
 ** Projects Included
 1️. Employee Management System (EMS)
-  -Manage employee records
-  -Admin login system
-  -View employee details (profile, salary, department)
-  -Uses Python + MySQL
+  - Manage employee records
+  - Admin login system
+  - View employee details (profile, salary, department)
+  - Uses Python + MySQL
 2️. (Add More Projects Here)
-  -Project Name
-  -Short description
+  - Project Name
+  - Short description
     
 ** Tech Stack
   Language: Python
